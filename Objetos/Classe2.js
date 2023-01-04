@@ -9,3 +9,13 @@ class Pai extends Avo {
         this.profissao = profissao
     }
 }
+
+
+class Filho extends Pai {
+    constructor() {
+        super('Silva')
+    }
+}
+
+const filho = new Filho
+console.log(filho)
