@@ -4,4 +4,4 @@ aprovados.forEach(function (nome, indice) {
     console.log(`${indice + 1}) ${nome}`)
 })
 
-console.log()
+console.log(aprovados)
