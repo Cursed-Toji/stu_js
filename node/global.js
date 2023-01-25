@@ -1,6 +1,9 @@
 // console.log(global)
 
 
-global.minhaApp() = {
-    return
+global.minhaApp = {
+    saudacao() {
+        return 'estou em todo lugar'
+    },
+    nome: 'sistema legal'
 }

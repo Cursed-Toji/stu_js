@@ -1,6 +1,6 @@
 const _ = require('lodash')
 
-setInterval(() => console.log(_.random(10, 100)), 8000)
+setInterval(() => console.log(_.random(10, 10)), 1000)
 
 
 // abrir o power shell como adm
