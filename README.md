@@ -1,8 +1,6 @@
 # stu_js
 javascript
-NPM i
-NPM init
-NPM -- SAVE AXIOS
+
 
 <h1> Project setup </h1>
 
